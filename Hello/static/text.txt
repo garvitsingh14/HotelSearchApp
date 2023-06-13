@@ -1,4 +1,0 @@
-this is sample text file ,
-we can add images too .
-
-This file can be accssed on the server
